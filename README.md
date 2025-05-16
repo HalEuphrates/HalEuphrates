@@ -1,4 +1,4 @@
-<img src="PASTE-URL-HERE" alt="Hal Euphrates GitHub Banner" width="100%" />
+<img src="(https://github.com/HalEuphrates/HalEuphrates/blob/main/banner.png?raw=true)" alt="Hal Euphrates GitHub Banner" width="100%" />
 
 # 👋 Hello, I'm Hal Euphrates
 
