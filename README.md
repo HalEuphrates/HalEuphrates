@@ -1,4 +1,4 @@
-<img src="https://github.com/HalEuphrates/HalEuphrates/blob/main/banner.png?raw=true&v=2" width="100%" />
+<img src="https://github.com/HalEuphrates/HalEuphrates/blob/main/banner.png?raw=true" width="100%" />
 
 
 
