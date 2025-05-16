@@ -1,3 +1,5 @@
+<img src="PASTE-URL-HERE" alt="Hal Euphrates GitHub Banner" width="100%" />
+
 # 👋 Hello, I'm Hal Euphrates
 
 I'm a data science student, former maths teacher, and lifelong problem-solver with a passion for turning raw data into clear insight. I'm pivoting into the data world with hands-on projects in Python, SQL, and statistics — combining analytical thinking with strong communication skills.
