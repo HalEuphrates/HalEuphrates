@@ -28,6 +28,15 @@ I'm a data science student, former maths teacher, and lifelong problem-solver wi
 ### [🎮 hangman](https://github.com/HalEuphrates/hangman)  
 > A fully playable Hangman game built in Python, created as part of AiCore’s developer program.
 
+### 🏠 Boston Housing Analysis
+
+[**ibm_ds_boston_housing**](https://github.com/HalEuphrates/ibm_ds_boston_housing)  
+Exploratory data analysis of the Boston Housing dataset using Python, pandas, and statistical methods.  
+Includes visualizations, hypothesis testing, and a full narrative report.
+
+📄 [Read the Report](https://github.com/HalEuphrates/ibm_ds_boston_housing/blob/main/REPORT.md)
+
+
 ### ⌛ Coming Soon: `nsw-remote-work-analysis`  
 > Real-world data exploration and visualization with pandas, Matplotlib, and seaborn — a practical look at remote working trends in NSW, Australia.
 
